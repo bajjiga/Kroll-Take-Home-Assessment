@@ -8,6 +8,4 @@ git clone cd repository
 npm install
 
 **Development**
-To start the development server, run:
-
-npm run dev
+To start the development server, run: npm run dev
